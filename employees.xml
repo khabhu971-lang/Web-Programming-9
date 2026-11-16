@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<employees>
+  <employee>
+    <id>EMP-1001</id>
+    <name>Sarah Jenkins</name>
+    <department>Engineering</department>
+    <designation>Senior Staff Software Engineer</designation>
+    <email>sarah.jenkins@company.com</email>
+    <phone>+1 (555) 234-5678</phone>
+    <salary>135000</salary>
+    <joiningDate>2021-03-15</joiningDate>
+    <status>Active</status>
+  </employee>
+  <employee>
+    <id>EMP-1002</id>
+    <name>Marcus Vance</name>
+    <department>Engineering</department>
+    <designation>Full Stack Developer</designation>
+    <email>marcus.vance@company.com</email>
+    <phone>+1 (555) 345-6789</phone>
+    <salary>92000</salary>
+    <joiningDate>2022-07-01</joiningDate>
+    <status>Active</status>
+  </employee>
+  <employee>
+    <id>EMP-1003</id>
+    <name>Elena Rodriguez</name>
+    <department>Product &amp; Design</department>
+    <designation>Lead UX/UI Designer</designation>
+    <email>elena.rodriguez@company.com</email>
+    <phone>+1 (555) 456-7890</phone>
+    <salary>108000</salary>
+    <joiningDate>2020-11-10</joiningDate>
+    <status>Active</status>
+  </employee>
+  <employee>
+    <id>EMP-1004</id>
+    <name>David Chen</name>
+    <department>Finance</department>
+    <designation>Senior Financial Analyst</designation>
+    <email>david.chen@company.com</email>
+    <phone>+1 (555) 567-8901</phone>
+    <salary>98000</salary>
+    <joiningDate>2019-05-20</joiningDate>
+    <status>Active</status>
+  </employee>
+  <employee>
+    <id>EMP-1005</id>
+    <name>Amira Patel</name>
+    <department>Human Resources</department>
+    <designation>HR Operations Specialist</designation>
+    <email>amira.patel@company.com</email>
+    <phone>+1 (555) 678-9012</phone>
+    <salary>74000</salary>
+    <joiningDate>2023-01-09</joiningDate>
+    <status>Active</status>
+  </employee>
+  <employee>
+    <id>EMP-1006</id>
+    <name>Robert Kowalski</name>
+    <department>Marketing</department>
+    <designation>Growth Marketing Director</designation>
+    <email>robert.kowalski@company.com</email>
+    <phone>+1 (555) 789-0123</phone>
+    <salary>122000</salary>
+    <joiningDate>2018-09-03</joiningDate>
+    <status>Inactive</status>
+  </employee>
+  <employee>
+    <id>EMP-1007</id>
+    <name>Olivia Taylor</name>
+    <department>Marketing</department>
+    <designation>Digital Content Strategist</designation>
+    <email>olivia.taylor@company.com</email>
+    <phone>+1 (555) 890-1234</phone>
+    <salary>68000</salary>
+    <joiningDate>2023-04-18</joiningDate>
+    <status>Active</status>
+  </employee>
+  <employee>
+    <id>EMP-1008</id>
+    <name>James Thornton</name>
+    <department>Sales</department>
+    <designation>Enterprise Account Executive</designation>
+    <email>james.thornton@company.com</email>
+    <phone>+1 (555) 901-2345</phone>
+    <salary>112000</salary>
+    <joiningDate>2021-08-25</joiningDate>
+    <status>Active</status>
+  </employee>
+  <employee>
+    <id>EMP-1009</id>
+    <name>Sophia Kim</name>
+    <department>Engineering</department>
+    <designation>DevOps &amp; Cloud Architect</designation>
+    <email>sophia.kim@company.com</email>
+    <phone>+1 (555) 012-3456</phone>
+    <salary>128000</salary>
+    <joiningDate>2020-02-14</joiningDate>
+    <status>Active</status>
+  </employee>
+  <employee>
+    <id>EMP-1010</id>
+    <name>Liam O'Connor</name>
+    <department>Human Resources</department>
+    <designation>Talent Acquisition Lead</designation>
+    <email>liam.oconnor@company.com</email>
+    <phone>+1 (555) 123-4567</phone>
+    <salary>86000</salary>
+    <joiningDate>2022-09-12</joiningDate>
+    <status>Inactive</status>
+  </employee>
+  <employee>
+    <id>EMP-1011</id>
+    <name>Nathalie Dubois</name>
+    <department>Product &amp; Design</department>
+    <designation>Senior Product Manager</designation>
+    <email>nathalie.dubois@company.com</email>
+    <phone>+1 (555) 234-8765</phone>
+    <salary>126000</salary>
+    <joiningDate>2019-10-01</joiningDate>
+    <status>Active</status>
+  </employee>
+  <employee>
+    <id>EMP-1012</id>
+    <name>Carlos Mendez</name>
+    <department>Finance</department>
+    <designation>Payroll &amp; Compliance Officer</designation>
+    <email>carlos.mendez@company.com</email>
+    <phone>+1 (555) 345-9876</phone>
+    <salary>81000</salary>
+    <joiningDate>2022-12-05</joiningDate>
+    <status>Active</status>
+  </employee>
+</employees>
